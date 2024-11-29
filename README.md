@@ -1,5 +1,3 @@
-# georgedavis-ibexlabs.github.io
-
 ### List of projects
 
 | Project Name  | Project Description | Project URL |
