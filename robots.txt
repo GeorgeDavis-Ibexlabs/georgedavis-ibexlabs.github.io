@@ -1,0 +1,9 @@
+# Adsbot (AdsBot crawlers must be named explicitly)
+User-agent: AdsBot-Google
+Disallow:
+
+# All other crawlers
+User-agent: *
+Disallow:
+
+Sitemap: https://georgedavis-ibexlabs.github.io/sitemap.xml.gz
